@@ -1,26 +1,26 @@
-# Previsão do Tempo
+# Weather Forecast
 
 ![Screenshot_1](https://github.com/CaioVenxncio/weatherapp/assets/161903325/a97ede96-049d-490f-8e67-ea02cc1a741c)
 
-## Descrição
+## Description
 
-Este projeto é uma aplicação web de previsão do tempo que permite aos usuários inserir o nome de uma cidade para obter informações meteorológicas em tempo real. A aplicação exibe a temperatura, umidade e velocidade do vento, além de ícones de clima dinâmicos que mudam de acordo com a condição climática atual.
+This project is a weather forecast web application that allows users to enter the name of a city to get real-time weather information. The application displays temperature, humidity, and wind speed, along with dynamic weather icons that change based on current conditions.
 
-## Tecnologias Utilizadas
+## Technologies Used
 
 - HTML
 - CSS
 - JavaScript
 
-## Funcionalidades
+## Features
 
-- Inserção do nome da cidade para obter a previsão do tempo
-- Exibição da temperatura, umidade e velocidade do vento
-- Ícones de clima dinâmicos
-- Design responsivo e moderno
+- City name input to retrieve weather forecast
+- Displays temperature, humidity, and wind speed
+- Dynamic weather icons based on current conditions
+- Responsive and modern design
 
-## Desafios e Aprendizados
+## Challenges and Learnings
 
-Durante o desenvolvimento deste projeto, enfrentei desafios ao integrar com a API do OpenWeatherMap para obter os dados meteorológicos. A prática de consumir APIs RESTful e manipular os dados retornados foi muito valiosa. Além disso, implementei mensagens de erro amigáveis para melhorar a experiência do usuário e garanti que a aplicação fosse responsiva em diferentes tamanhos de tela.
+During the development of this project, I faced challenges integrating with the OpenWeatherMap API to fetch weather data. Practicing how to consume RESTful APIs and handle returned data was very valuable. I also implemented user-friendly error messages to enhance the user experience and ensured the application is responsive across different screen sizes.
 
 
